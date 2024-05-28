@@ -1,0 +1,5 @@
+{
+    "require": {
+        "pear/text_diff": "^1.2"
+    }
+}
